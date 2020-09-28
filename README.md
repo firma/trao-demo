@@ -8,6 +8,12 @@ Taro 脚手架，最新版本支持 Taro 3.0
 * dev环境支持 数据mock
 * 支持 DVA 
 * 支持 redux
+* 支持 template 脚手架
+	* node template.js 模块名称
+	```
+	node template.js test
+	```
+
 
 #### 微信小程序
 * `git clone https://github.com/firma/trao-demo.git`
