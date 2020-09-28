@@ -1,0 +1,11 @@
+/* 改变主题变量，具体变量名可查看 taro-ui/dist/style/variables/default.scss 文件 */
+//$color-brand: #CCFFCC ;
+
+//$color-bg: #eee  !default;
+//$color-bg-base: #FAFBFC !default;
+//$color-bg-light: #ECF5FD !default;
+//$color-bg-lighter: tint($color-bg-light, 50%) !default;
+//$color-bg-grey: #F7F7F7 !default;
+
+/* 引入 Taro UI 默认样式 */
+@import "~taro-ui/dist/style/index.scss";
