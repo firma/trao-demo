@@ -11,7 +11,8 @@ if (!dirName) {
 }
 
 // 页面模版
-const indexTep = `import React, { Component } from 'react'
+const indexTep = `import Taro from '@tarojs/taro'
+import React, { Component } from 'react'
 import { View } from '@tarojs/components'
 import {connect } from 'react-redux'
 import './index.scss'
